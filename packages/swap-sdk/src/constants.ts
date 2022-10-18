@@ -88,10 +88,10 @@ export const WETH9 = {
   ),
   [ChainId.ETHEREUM_ETHW]: new Token(
     ChainId.ETHEREUM_ETHW,
-    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+    '0x7Bf88d2c0e32dE92CdaF2D43CcDc23e8Edfd5990',
     18,
-    'WETH',
-    'Wrapped Ether',
+    'WETHW',
+    'Wrapped EtherPoW',
     'https://weth.io'
   ),
   [ChainId.RINKEBY]: new Token(
@@ -165,7 +165,7 @@ export const NATIVE: Record<
   }
 > = {
   [ChainId.ETHEREUM]: { name: 'Ether', symbol: 'ETH', decimals: 18 },
-  [ChainId.ETHEREUM_ETHW]: { name: 'Ether', symbol: 'ETH', decimals: 18 },
+  [ChainId.ETHEREUM_ETHW]: { name: 'Ether', symbol: 'ETHW', decimals: 18 },
   [ChainId.RINKEBY]: { name: 'Rinkeby Ether', symbol: 'RIN', decimals: 18 },
   [ChainId.GOERLI]: { name: 'Goerli Ether', symbol: 'GOR', decimals: 18 },
   [ChainId.BSC]: {
