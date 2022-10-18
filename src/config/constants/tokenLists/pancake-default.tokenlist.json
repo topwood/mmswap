@@ -163,11 +163,27 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 10001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
       "name": "USD Coin",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 1,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 10001,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
     {
@@ -192,6 +208,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 10001,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
     },
     {
