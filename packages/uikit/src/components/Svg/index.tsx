@@ -159,4 +159,5 @@ export { default as LightBulbIcon } from "./Icons/LightBulb";
 export { default as Svg } from "./Svg";
 export { default as BraveIcon } from "./Icons/Brave";
 export { default as BloctoIcon } from "./Icons/Blocto";
+export { default as DTLogo } from "./Icons/DTlogo";
 export type { SvgProps } from "./types";
